@@ -1,5 +1,5 @@
 #Arnold Ndiwalana
-[My Github]https://github.com/darkarnold
+[My Github](https://github.com/darkarnold)
 ##Education
 School|Years
 ------|-------
